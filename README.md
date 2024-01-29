@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Hugo and I am passionate about my job in cybersecurity.
+My name is Hugo and I am passionate about my job in cybersecurity and new techs in general 🔒
